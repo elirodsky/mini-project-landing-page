@@ -7,19 +7,19 @@
   /* Element Selectors */
   body {
     position: relative;
-    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-family: "Optima", sans-serif;
     font-size: 20px;
-    background-color: #FDF8F5;
+    background-color: beige;
     color: #4F4846;
   }
   
   h1,
   h2 {
-    margin: 20px;
+    margin: 50px;
   }
   
   main {
-    padding: 60px 0;
+    padding: 70px 0;
   }
   
   li {
@@ -30,7 +30,7 @@
   
   a {
     text-decoration: none;
-    color: #FDF8F5;
+    color: blue;
   }
   
   header,
@@ -50,8 +50,8 @@
     position: absolute;
     margin-top: 0;
     bottom: 0;
-    border-bottom: 10px solid Pink;
-    color: #FDF8F5;    
+    border-bottom: 10px solid blue;
+    color:black;    
   }
   
   figure {
@@ -60,7 +60,7 @@
   
   img {
     display: block;
-    margin: 20px auto;
+    margin: 50px auto;
   }
   
   section {
@@ -99,8 +99,8 @@
   button {
     height: 40px;
     width: 120px;
-    background-color: #4F4846;
-    color: #FDF8F5;
+    background-color: red;
+    color: black;
   }
    
   /* Class Selectors */
